@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="aead23884774e210f0631ce4316d4307" label="IncidentData" max_length="40" name="x_1596633_remedyhd_incidentdata" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Company" max_length="40" name="company2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Resolution Method" max_length="40" name="resolution_method" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="OLA Hold" max_length="40" name="ola_hold" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Satisfaction Rating" max_length="40" name="satisfaction_rating" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Support_Group_Role" max_length="40" name="support_group_role" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Direct Contact Internet E-mail" max_length="40" name="direct_contact_internet_e_mail" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Set_Resolve" max_length="40" name="set_resolve" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Closure Source" max_length="40" name="closure_source" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Submitter*" max_length="40" name="submitter" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Funding Account" max_length="40" name="funding_account" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Customer Site" max_length="55" name="customer_site" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Cost Center" max_length="40" name="cost_center" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Desk Location" max_length="40" name="desk_location" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Operational Categorization Tier 2" max_length="40" name="operational_categorization_tier_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Service*+" max_length="40" name="service" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Responded Date+" max_length="40" name="responded_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="RunProcessCMDResult" max_length="40" name="runprocesscmdresult" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Incident Association Type" max_length="40" name="incident_association_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Direct Contact Region" max_length="40" name="direct_contact_region" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Cumulative time with Vendors(in Hours)" max_length="40" name="cumulative_time_with_vendors_in_hours" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Direct Contact Department" max_length="40" name="direct_contact_department" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Resolution Categorization Tier 3" max_length="40" name="resolution_categorization_tier_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Name+" max_length="40" name="last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="State Province" max_length="40" name="state_province" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Vendor Group ID" max_length="40" name="vendor_group_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Resolution Product Categorization Tier 2" max_length="40" name="resolution_product_categorization_tier_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Call Type" max_length="40" name="call_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Direct Contact Mail Station" max_length="40" name="direct_contact_mail_station" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Assigned Group*+" max_length="51" name="assigned_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Resolution" max_length="3870" name="resolution" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="TicketType" max_length="40" name="tickettype" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Outage End Date" max_length="40" name="outage_end_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Target Date" max_length="40" name="target_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Incident ID*+" max_length="40" name="incident_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Customer Phone*+" max_length="40" name="customer_phone" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Operational Categorization Tier 1+" max_length="40" name="operational_categorization_tier_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Time Zone" max_length="47" name="time_zone" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Direct Contact Local Number" max_length="40" name="direct_contact_local_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Owner Group+" max_length="40" name="owner_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Direct Contact First Name" max_length="40" name="direct_contact_first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Mail Station" max_length="40" name="mail_station" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Effort Time Spent Minutes" max_length="40" name="effort_time_spent_minutes" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Country" max_length="40" name="country" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Generic Categorization Tier 2" max_length="40" name="generic_categorization_tier_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Resolution Categorization Tier 2" max_length="40" name="resolution_categorization_tier_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Cause" max_length="40" name="cause" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Event ID" max_length="40" name="event_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Direct Contact Last Name" max_length="40" name="direct_contact_last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Resolution Product Categorization Tier 3" max_length="45" name="resolution_product_categorization_tier_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Vendor Assigned Date" max_length="40" name="vendor_assigned_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Street" max_length="40" name="street" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Direct Contact City" max_length="40" name="direct_contact_city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Urgency*" max_length="40" name="urgency" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Region" max_length="40" name="region" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Direct Contact Organization" max_length="40" name="direct_contact_organization" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Middle Name" max_length="40" name="middle_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="SLM Real Time Status" max_length="40" name="slm_real_time_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Direct Contact Zip/Postal Code" max_length="40" name="direct_contact_zip_postal_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Vendor Ticket Number" max_length="40" name="vendor_ticket_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Status_Reason_Hidden" max_length="40" name="status_reason_hidden" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Direct Contact Extension" max_length="40" name="direct_contact_extension" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Required Resolution DateTime" max_length="40" name="required_resolution_datetime" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Company*+" max_length="40" name="company1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Direct Contact Street" max_length="40" name="direct_contact_street" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Additional Location Details" max_length="40" name="additional_location_details" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Submit Date" max_length="40" name="submit_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Direct Contact Site Group" max_length="40" name="direct_contact_site_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Product Name+" max_length="42" name="product_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Response" max_length="40" name="response" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Vendor Organization" max_length="40" name="vendor_organization" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Assignee+" max_length="40" name="assignee" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Create Request" max_length="40" name="create_request" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Contact Phone+" max_length="40" name="contact_phone" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Created from Template" max_length="40" name="created_from_template" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Client Type" max_length="40" name="client_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Status-PPL" max_length="40" name="status_ppl" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Create Impacted Area from Customer's Location*" max_length="40" name="create_impacted_area_from_customer_s_location" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Product Name (R)+" max_length="42" name="product_name_r" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Incident Type*" max_length="40" name="incident_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Closed Date" max_length="40" name="closed_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Resolution Categorization Tier 1" max_length="40" name="resolution_categorization_tier_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Vendor Resolved Date" max_length="40" name="vendor_resolved_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="NERC/CIP" max_length="40" name="nerc_cip" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="RunProcessCMD" max_length="40" name="runprocesscmd" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Direct Contact Site ID" max_length="40" name="direct_contact_site_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="SLM Priority" max_length="40" name="slm_priority" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Direct Contact Country Code" max_length="40" name="direct_contact_country_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Direct Contact Location Details" max_length="40" name="direct_contact_location_details" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Direct Contact Company" max_length="40" name="direct_contact_company" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Set_UnResolve" max_length="40" name="set_unresolve" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Product Categorization Tier 3" max_length="45" name="product_categorization_tier_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Product Categorization Tier 1" max_length="40" name="product_categorization_tier_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Direct Contact Corporate ID" max_length="40" name="direct_contact_corporate_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Direct Contact State/Province" max_length="40" name="direct_contact_state_province" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Entry ID" max_length="40" name="entry_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Impact*" max_length="40" name="impact" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="UnknownUser" max_length="40" name="unknownuser" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Next Action" max_length="40" name="next_action" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="8000" name="notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Direct Contact Time Zone" max_length="40" name="direct_contact_time_zone" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Direct Contact Person ID" max_length="40" name="direct_contact_person_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Priority*" max_length="40" name="priority" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Owner" max_length="40" name="owner" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Direct Contact Desk Location" max_length="40" name="direct_contact_desk_location" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Resolution Product Categorization Tier 1" max_length="40" name="resolution_product_categorization_tier_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Contact Site" max_length="52" name="contact_site" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Inbound:" max_length="40" name="inbound" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Kickback_Count" max_length="40" name="kickback_count" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Manufacturer (R)" max_length="40" name="manufacturer_r" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Vendor Group+" max_length="40" name="vendor_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Reported Date+" max_length="40" name="reported_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Outbound:" max_length="40" name="outbound" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Broadcasted Flag" max_length="40" name="broadcasted_flag" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Modified By" max_length="40" name="last_modified_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Reported Source" max_length="40" name="reported_source" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Model/Version" max_length="40" name="model_version" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Modified Date" max_length="40" name="last_modified_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Status*" max_length="40" name="status" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Vendor Name" max_length="40" name="vendor_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Model/Version (R)" max_length="40" name="model_version_r" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Resolved Date" max_length="40" name="last_resolved_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Acknowledged Date" max_length="40" name="last_acknowledged_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="CI+" max_length="40" name="ci" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Product Categorization Tier 2" max_length="40" name="product_categorization_tier_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Operational Categorization Tier 3" max_length="40" name="operational_categorization_tier_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Summary*" max_length="100" name="summary" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Time_with_Vendor_seconds" max_length="40" name="time_with_vendor_seconds" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Zip/Postal Code" max_length="40" name="zip_postal_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last_Kickback_Date" max_length="40" name="last_kickback_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="SLA Hold" max_length="40" name="sla_hold" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Manufacturer" max_length="40" name="manufacturer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Outage Start Date" max_length="40" name="outage_start_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="First Name+" max_length="40" name="first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="City" max_length="40" name="city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Generic Categorization Tier 3" max_length="40" name="generic_categorization_tier_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Direct Contact Area Code" max_length="40" name="direct_contact_area_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Direct Contact Country" max_length="40" name="direct_contact_country" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Site Group" max_length="40" name="site_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Service Request ID" max_length="40" name="service_request_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Direct Contact Middle Initial" max_length="40" name="direct_contact_middle_initial" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

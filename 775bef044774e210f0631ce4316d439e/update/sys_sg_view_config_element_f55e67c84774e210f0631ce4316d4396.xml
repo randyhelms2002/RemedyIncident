@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>resolution_method-FieldLabel</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-04 20:58:24</sys_created_on>
+        <sys_id>f55e67c84774e210f0631ce4316d4396</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>resolution_method-FieldLabel</sys_name>
+        <sys_package display_value="RemedyIncident" source="x_1596633_remedyhd">775bef044774e210f0631ce4316d439e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RemedyIncident">775bef044774e210f0631ce4316d439e</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_f55e67c84774e210f0631ce4316d4396</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-04 20:58:24</sys_updated_on>
+        <view_config display_value="IncidentData List Screen View Config">695eef884774e210f0631ce4316d43c1</view_config>
+        <view_template_slot display_value="text_06">cb878d7041275010f877183fc9b8be59</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

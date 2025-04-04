@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute">
+    <sys_sg_view_config_element_attribute action="INSERT_OR_UPDATE">
+        <description/>
+        <name display_value="FieldLabel">c90fd1c2b7321010df65f6efce11a9d2</name>
+        <sys_class_name>sys_sg_view_config_element_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-04 20:58:24</sys_created_on>
+        <sys_id>f95e67c84774e210f0631ce4316d438f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c90fd1c2b7321010df65f6efce11a9d2</sys_name>
+        <sys_package display_value="RemedyIncident" source="x_1596633_remedyhd">775bef044774e210f0631ce4316d439e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RemedyIncident">775bef044774e210f0631ce4316d439e</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_attribute_f95e67c84774e210f0631ce4316d438f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-04 20:58:24</sys_updated_on>
+        <translated_value/>
+        <value>vendor_organization</value>
+        <view_config_element display_value="vendor_organization-FieldLabel">395e67c84774e210f0631ce4316d438d</view_config_element>
+    </sys_sg_view_config_element_attribute>
+    <sys_translated_text action="delete_multiple" query="documentkey=f95e67c84774e210f0631ce4316d438f"/>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>vendor_organization-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-04 20:58:24</sys_created_on>
+        <sys_id>f15e67c84774e210f0631ce4316d43b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>vendor_organization-FieldValue</sys_name>
+        <sys_package display_value="RemedyIncident" source="x_1596633_remedyhd">775bef044774e210f0631ce4316d439e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RemedyIncident">775bef044774e210f0631ce4316d439e</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_f15e67c84774e210f0631ce4316d43b1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-04 20:58:24</sys_updated_on>
+        <view_config display_value="IncidentData Detail Screen View Config">b55e67c84774e210f0631ce4316d439f</view_config>
+        <view_template_slot display_value="text_05">b4f4c13041275010f877183fc9b8be56</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>
